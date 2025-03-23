@@ -80,6 +80,7 @@ This project is a **QR-Based Attendance System** that allows students to scan QR
 This project is open-source under the MIT License.
 
 ## Contributors
+# We welcome contributions from the community!
 - [Dharaneesh8688](https://github.com/Dharaneesh8688)
 
 
