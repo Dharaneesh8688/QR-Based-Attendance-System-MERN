@@ -74,8 +74,6 @@ This project is a **QR-Based Attendance System** that allows students to scan QR
 | POST | `/api/attendance/scan` | Scan and verify attendance |
 
 ## Future Enhancements
-- **Push Notifications** for attendance reminders.
-- **Biometric Authentication** for added security.
 - **Analytics Dashboard** for attendance trends.
 
 ## License
