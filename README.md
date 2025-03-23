@@ -25,21 +25,21 @@ This project is a **QR-Based Attendance System** that allows students to scan QR
 ## Technologies Used
 - **Frontend:** React (Vite)
 - **Backend:** Node.js (Express)
-- **Database:** PostgreSQL/MySQL
+- **Database:** Mongodb
 - **Authentication:** JWT
 - **QR Code Generation & Scanning:** qrcode.react, jsQR
-- **Deployment:** Docker (Optional), Vercel/Netlify for frontend, Railway/Heroku for backend
+
 
 ## Installation
 ### Prerequisites
 - Node.js & npm
-- PostgreSQL/MySQL database
+- mongodb database
 - Environment variables configured (.env file)
 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/qr-attendance-system.git
+   git clone https://github.com/Dharaneesh8688/QR-Based-Attendance-System-MERN.git
    cd qr-attendance-system
    ```
 2. Install dependencies:
