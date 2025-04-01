@@ -66,12 +66,7 @@ This project is a **QR-Based Attendance System** that allows students to scan QR
    npm run dev
    ```
 
-## API Endpoints
-| Method | Endpoint | Description |
-|--------|-------------|-------------|
-| POST | `/api/auth/login` | Login for admin, staff, and students |
-| GET | `/api/students` | Fetch all students |
-| POST | `/api/attendance/scan` | Scan and verify attendance |
+
 
 ## Future Enhancements
 - **Analytics Dashboard** for attendance trends.
